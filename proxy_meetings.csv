@@ -1,0 +1,6 @@
+company,ticker,meeting_date,item_no,proposal,sponsor,votes_for,votes_against,abstentions,broker_non_votes,result,link
+Chevron Corporation,CVX,2026-05-27,2,Ratify PwC as auditor for 2026,Board,1634506920,63632611,3331382,n/a (broker discretionary),Approved,https://www.sec.gov/Archives/edgar/data/93410/000009341026000125/cvx-20260527.htm
+Chevron Corporation,CVX,2026-05-27,3,Advisory vote on executive compensation,Board,1370288108,42907510,6463904,281811391,Approved,https://www.sec.gov/Archives/edgar/data/93410/000009341026000125/cvx-20260527.htm
+Chevron Corporation,CVX,2026-05-27,4,Independent chair,Shareholder,203629621,1202445396,13584505,281811391,Not approved,https://www.sec.gov/Archives/edgar/data/93410/000009341026000125/cvx-20260527.htm
+Chevron Corporation,CVX,2026-05-27,5,Report on indigenous peoples rights,Shareholder,125818083,1276887604,16953835,281811391,Not approved,https://www.sec.gov/Archives/edgar/data/93410/000009341026000125/cvx-20260527.htm
+Chevron Corporation,CVX,2026-05-27,6,Third-party report on human rights processes,Shareholder,124228704,1277523292,17907526,281811391,Not approved,https://www.sec.gov/Archives/edgar/data/93410/000009341026000125/cvx-20260527.htm
